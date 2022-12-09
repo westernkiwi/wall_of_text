@@ -21,8 +21,8 @@ function setup() {
 }
 
 function draw() {
-	background(222)
-	stroke(0)
+	background(0)
+	stroke(222)
 	strokeWeight(2)
 	textFont("courier")
 	textSize(textHeight)
